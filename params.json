@@ -1,6 +1,6 @@
 {
   "name": "Rob Fletcher",
   "tagline": "Enterprise bean deployer at Netflix",
-  "body": "## Open source projects",
+  "body": "## Open source projects\r\n\r\n[Spock JDBC](/spock-jdbc) -- JDBC extensions for [Spock](http://spockframework.org/).\r\n\r\n[Discordian Calendar](https://github.com/robfletcher/discordian-calendar) -- An implementation of the [Discordian Calendar](http://en.wikipedia.org/wiki/Discordian_calendar) for the Java 8 time API.\r\n\r\n[JDBI Time](https://github.com/robfletcher/jdbi-time) -- JDBI adapters for the Java 8 time API.\r\n\r\n[Gradle Compass](https://github.com/robfletcher/gradle-compass) -- A SASS / Compass plugin for Gradle.\r\n\r\n[Midcentury Ipsum](http://midcentury-ipsum.herokuapp.com/) -- Swingin' filler text for your jet-age web page.\r\n\r\n[Font Taxonomy](/font-taxonomy) -- Free font showcase.\r\n\r\n---",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
